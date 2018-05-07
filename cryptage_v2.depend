@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1485856352 source:e:\cryptage_v2\main.c
+	<stdlib.h>
+	<stdio.h>
+
+1485856352 source:g:\cryptage_v2\main.c
+	<stdlib.h>
+	<stdio.h>
+
